@@ -4,9 +4,9 @@
 
 La criptografía es un componente esencial a la hora de proteger los datos almacenados en un dispositivo móvil. También es una categoría en la que las cosas pueden ir terriblemente mal, especialmente cuando no se siguen las convenciones estándar. El propósito de estos controles es asegurarse que la aplicación utiliza criptografía según las mejores prácticas de la industria, incluyendo:
 
-- Uso de librerías conocidas y probadas;
+- Uso de librerías criptográficas y probadas;
 - Configuración y elección de primitivas criptográficas apropiado;
-- Cuando se requiere de aleatoriedad se selecciona el generador debido.
+- Una aceptable generación de números randómicos.
 
 ## Requerimientos de Verificación de Seguridad
 
